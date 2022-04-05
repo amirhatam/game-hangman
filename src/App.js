@@ -6,11 +6,11 @@ import { Footer } from './componentes/Footer';
 
 function App() {
   return (
-    <div>
+    <>
       <Navbar />
       <Pendu />
       <Footer />
-    </div>
+    </>
   );
 }
 
