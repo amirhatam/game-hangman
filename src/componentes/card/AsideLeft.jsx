@@ -34,7 +34,6 @@ export const AsideLeft = (props) => {
                                 synonyms
                                 :
                                 null
-
                         }
                     </MDBCardText>
                     <MDBCardText className='text-capitalize fw-normal' tag='h4' variant="h4-responsive" >
