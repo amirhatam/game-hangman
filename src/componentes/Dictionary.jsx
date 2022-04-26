@@ -25,6 +25,9 @@ export const Dictionary = (
                     const nounData = response.data[0].meanings[0]
                     const verbData = response.data[0].meanings[1]
 
+                    if (response.data[0].meanings[0]) {
+
+                    }
                     // console.log(response.data[0].meanings[0].partOfSpeech);
                     // console.log(response.data[0].meanings[1].partOfSpeech);
 
